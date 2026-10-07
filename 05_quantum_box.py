@@ -40,3 +40,4 @@ plt.grid(True)
 
 plt.tight_layout()
 plt.show()
+# Code is made by @amnmk on GitHub
