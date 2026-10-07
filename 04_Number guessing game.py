@@ -19,3 +19,4 @@ while guess != random_number :
 if guess == random_number:
     print("You Got it! The number was " + str(random_number))
     print("It took you " + str(attempts) + " attempts")
+# Code is made by @amnmk on GitHub
