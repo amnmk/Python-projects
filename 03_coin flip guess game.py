@@ -35,3 +35,4 @@ while attempts <= 10:
     
     attempts = attempts + 1
 print("Your score is " + str(score) + "/10")
+# Code is made by @amnmk on GitHub
