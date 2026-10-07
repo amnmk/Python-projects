@@ -65,3 +65,4 @@ if __name__ == "__main__":
     window = CustomBrowser()
     window.show()
     sys.exit(app.exec())
+# Code is made by @amnmk on GitHub
