@@ -1,3 +1,4 @@
+# This is the first ever test/project built by amnmk
 print (str("Project 1"))
 
 # Value assignations
@@ -12,3 +13,4 @@ if value == 0:
 else:
     decision = "odd"
     print ("Your number " + str(number) + " is an " + decision + " number ")
+# Code is made by @amnmk on GitHub
