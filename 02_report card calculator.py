@@ -29,3 +29,4 @@ elif average < 70 and average > 65 :
 elif average <= 65 :
     print("Your average is " + str(average))
     print("You Fail!(F)")
+# Code is made by @amnmk on GitHub
