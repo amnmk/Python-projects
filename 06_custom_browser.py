@@ -12,7 +12,7 @@ class CustomBrowser(QMainWindow):
 
         # 1. Create the web rendering engine (Uses Chromium under the hood)
         self.browser = QWebEngineView()
-        self.browser.setUrl(QUrl("https://google.com")) # Your homepage
+        self.browser.setUrl(QUrl("https://google.com/?hl=en")) # Your homepage
 
         # 2. Build the top toolbar interface
         self.toolbar = QToolBar()
